@@ -82,7 +82,7 @@ namespace ExercicioCalculadora
                         float numM2 = float.Parse(Console.ReadLine());
                         float resultadoMultiplicação = (float)numM1 * numM2;
 
-                        Console.WriteLine("A soma dos numeros informados é: " + resultadoMultiplicação);
+                        Console.WriteLine($"A soma dos numeros informados é: {resultadoMultiplicação}"); //exemplo interpolação
 
                         break;
 
