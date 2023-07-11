@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioCalculadora", "ExercicioCalculadora\ExercicioCalculadora.csproj", "{12DC8303-5AAD-4828-8F64-6267B006C3CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraRefatorada", "CalculadoraRefatorada\CalculadoraRefatorada.csproj", "{F9A1890D-53B9-4722-9A0D-6AEA29C1CC7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{12DC8303-5AAD-4828-8F64-6267B006C3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12DC8303-5AAD-4828-8F64-6267B006C3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12DC8303-5AAD-4828-8F64-6267B006C3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A1890D-53B9-4722-9A0D-6AEA29C1CC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A1890D-53B9-4722-9A0D-6AEA29C1CC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A1890D-53B9-4722-9A0D-6AEA29C1CC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A1890D-53B9-4722-9A0D-6AEA29C1CC7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
